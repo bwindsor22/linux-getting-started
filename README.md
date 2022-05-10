@@ -1,8 +1,10 @@
 # Install Tmux
 * `sudo yum install tmux`
 * `tmux`
-* `ctrl + B %`
-* `ctrl + B "`
+* Split screen: `ctrl + B %`
+* Split screen: `ctrl + B "`
+* Move between screens: `ctrl + B + arrow`
+* Kill a screen: `ctrl + B + x + y`
 
 # Make directories and files
 * `pwd`
