@@ -2,6 +2,7 @@
 * `sudo yum install tmux`
 * `tmux`
 * `ctrl + B %`
+* `ctrl + B "`
 
 # Make directories and files
 * `pwd`
