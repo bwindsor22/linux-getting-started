@@ -28,7 +28,7 @@
 * `htop`
 
 # Run sqllite table
-* `sudo yum install sqlite-devel
+* `sudo yum install sqlite-devel`
 * https://www.digitalocean.com/community/tutorials/how-and-when-to-use-sqlite 
 
 # Load Real Data
