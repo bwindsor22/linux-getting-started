@@ -68,14 +68,6 @@ where Origin == "US"
 * https://www.sqlitetutorial.net/sqlite-python/sqlite-python-select/
 
 
-# Putting it together
-* Write an endpoint in python that accepts an argument and prints a value
-```
-
-```
-* Write an endpoint in python that accepts an MPG and returns the models which have at least the same MPG
-* Write a curl call that triggers the response
-
 # Extra Time? See "Missing Semester":
 * https://missing.csail.mit.edu/ 
 
